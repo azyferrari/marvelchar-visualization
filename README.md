@@ -12,3 +12,6 @@ The visualizations in this project are created using Altair, a declarative stati
 
 ## Acknowledgements
 The data used in this project is provided by [fivethirtyeight](https://github.com/fivethirtyeight/data/tree/master/comic-characters) and is publicly available on their GitHub repository.
+
+## Notes
+The result of visualization saved in visualization direcory.
